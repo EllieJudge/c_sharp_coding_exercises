@@ -33,7 +33,7 @@ namespace TechReturners.Tests
         {
             Assert.Equal(120, Exercise001.AddVat(100, 20));
             Assert.Equal(47, Exercise001.AddVat(40, 17.5));
-            Assert.Equal(39.367, Exercise001.AddVat(33.5, 17.5));
+            Assert.Equal(39.36, Exercise001.AddVat(33.5, 17.5));
             Assert.Equal(25, Exercise001.AddVat(25, 0));
         }
 

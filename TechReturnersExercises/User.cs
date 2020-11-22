@@ -1,5 +1,3 @@
-using System;
-
 namespace TechReturners {
 
     public class User {
